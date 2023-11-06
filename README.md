@@ -1,8 +1,13 @@
 # AlDonate
 
 ## Description
+AlDonate is a pioneering platform leveraging the power of the Algorand blockchain to bring transparency and trust to charitable donations. It enables users to make informed donations, track the allocation of funds, and directly observe the impact of their contributions.
 
-A one-stop platform, built on Algorand, that allows donors to easily donate, track and analyse the impact of their donations clearly.
+## Key Features
+Seamless Donation Process: Simple and user-friendly interface for making donations.
+Donation Tracking: Real-time tracking of donated funds on the blockchain.
+Impact Analysis: Tools and metrics to assess the impact of donations.
+Blockchain Security: Utilizing Algorand for secure and transparent transactions.
 
 ## Installation Instruction
 
